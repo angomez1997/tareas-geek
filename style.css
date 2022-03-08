@@ -1,0 +1,49 @@
+*{
+    background-color:#DCDCDC;
+}
+#conversor{
+    background-color: #A9A9A9;
+    padding: 100px 20px 100px 20px;
+    margin-top: 10px;
+    width: 800px;
+    border-radius: 20px;
+    margin-left: 270px;
+
+    
+
+
+
+}
+
+#cantidad{
+    background-color: #F5F5F5;
+    padding-right: 180px;
+    color: black;
+    margin-bottom: 40px;
+    text-align: left;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+#monedaUno{
+    margin-left: 100px;
+}
+
+#cotizar{
+    background-color: #7CFC00;
+    color: aliceblue;
+    padding-right: 50px;
+    border-radius: 5px;
+    
+    
+
+}
+img{
+    width: 100px;
+    margin-left: 350px;
+    
+
+}
+.destacado{
+    background-color: black;
+}
